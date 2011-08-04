@@ -1,13 +1,13 @@
 #text_large {
 	text-align:center;
 	color:white;
-	font: 60px "Myriad Pro";
+	font: 55px "Myriad Pro";
 }
 
 #text_small {
 	text-align:center;
 	color:white;
-	font: 30px "Myriad Pro";
+	font: 27px "Myriad Pro";
 }
 
 .body {
@@ -16,5 +16,5 @@
 
 #main {
 	position:relative;
-	margin-top: 5%;
+	margin-top: 9%;
 }
