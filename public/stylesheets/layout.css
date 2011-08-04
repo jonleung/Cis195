@@ -1,0 +1,20 @@
+#text_large {
+	text-align:center;
+	color:white;
+	font: 60px "Myriad Pro";
+}
+
+#text_small {
+	text-align:center;
+	color:white;
+	font: 30px "Myriad Pro";
+}
+
+.body {
+	background-color:black;
+}
+
+#main {
+	position:relative;
+	margin-top: 5%;
+}

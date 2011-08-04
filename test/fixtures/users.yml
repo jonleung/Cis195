@@ -1,0 +1,21 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  major: MyString
+  year: 1
+  email: MyString
+  courses_hash: MyString
+  q1: MyString
+  q2: MyText
+
+two:
+  first_name: MyString
+  last_name: MyString
+  major: MyString
+  year: 1
+  email: MyString
+  courses_hash: MyString
+  q1: MyString
+  q2: MyText
