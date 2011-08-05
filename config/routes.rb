@@ -3,7 +3,6 @@ Iphone::Application.routes.draw do
   #resources :users
 
   root :to => "home#index"
-  match "info" => "info#index"
   
   # The priority is based upon order of creation:
   # first created -> highest priority.
