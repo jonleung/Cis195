@@ -3,16 +3,43 @@
 	margin-top: 9%;
 }
 
-#text_large {
+#title {
 	text-align:center;
 	color:white;
 	font: 55px "Myriad Pro";
+	margin-top: 15%;
 }
 
-#text_small {
-	text-align:center;
+#when_prereqs {
+	
+	margin-top:25px;
+	
+	text-align:left;
 	color:white;
 	font: 27px "Myriad Pro";
+	margin-top:25px;
+}
+
+#when_prereqs {
+	text-align:left;
+	color:white;
+	font: 23px "Myriad Pro";
+}
+
+#description {
+	margin-top: 5%;
+	text-align:left;
+	color:white;
+	font: 19px "Myriad Pro";
+}
+
+#headers {
+	margin-top: 5%;
+	text-align:left;
+	color:white;
+	font: 23px "Myriad Pro";
+	padding:0px;
+	margin:0px;
 }
 
 .body {
@@ -21,5 +48,25 @@
 
 #main {
 	position:relative;
-	margin-top: 9%;
+	margin-top: 15%;
 }
+
+#bottom_padding {
+	padding-bottom:60px;
+}
+
+a.link:link {
+	color:#787878;
+	text-decoration: none;
+}
+a.link:visited {
+	color:#787878 ;
+	text-decoration: none;
+}
+a.link:hover {
+	color:#B0B0B0;
+	}
+a.link:active {
+	color:#404040;
+	}
+	
