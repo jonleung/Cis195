@@ -4,26 +4,24 @@
 }
 
 #title {
-	text-align:center;
+	text-align:left;
 	color:white;
 	font: 55px "Myriad Pro";
-	margin-top: 15%;
+	margin-top: 5%;
 }
 
-#when_prereqs {
-	
-	margin-top:25px;
-	
-	text-align:left;
-	color:white;
-	font: 27px "Myriad Pro";
-	margin-top:25px;
-}
+
 
 #when_prereqs {
 	text-align:left;
+	top:142px;
+	left: 5%;
+	/*background-color: #000000;*/
+	
 	color:white;
-	font: 23px "Myriad Pro";
+	font: 19px "Myriad Pro";
+	position: fixed;
+	padding-top:0px;
 }
 
 #description {
